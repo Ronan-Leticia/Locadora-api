@@ -1,0 +1,23 @@
+{
+  "name": "locadora-api",
+  "version": "1.0.0",
+  "description": "api de gerenciamento de locadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ronan-Leticia/Locadora-api.git"
+  },
+  "author": "Ronan Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ronan-Leticia/Locadora-api/issues"
+  },
+  "homepage": "https://github.com/Ronan-Leticia/Locadora-api#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
